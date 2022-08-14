@@ -1,0 +1,25 @@
+------------------------------------------
+Driver  Co-Driver                         
+                                         
+				  Door1   
+                    			
+Seat_A1 Seat_B1         Seat_C1 Seat_D1  
+							
+Seat_A2 Seat_B2         Seat_C2 Seat_D2   
+							
+Seat_A3 Seat_B3         Seat_C3 Seat_D3   
+							
+Seat_A4 Seat_B4         Seat_C4 Seat_D4  
+						
+			          Door2    
+							
+Seat_A5 Seat_B5         Seat_C5 Seat_D5   
+							
+Seat_A6 Seat_B6         Seat_C6 Seat_D6   
+							
+Seat_A7 Seat_B7         Seat_C7 Seat_D7   
+ 							
+Seat_A8 Seat_B8         Seat_C8 Seat_D8	
+							
+				  Door3    
+------------------------------------------

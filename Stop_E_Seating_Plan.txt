@@ -1,0 +1,8 @@
+              L               L               L               L 
+             LM              A2               L               L 
+             A3              B3               L              D3 
+              C               C              C5              D4 
+              M               M               M               M 
+              M               M               M               M 
+              M               M               M               M 
+              M               M              MT              MT 

@@ -1,0 +1,9 @@
+LM 3 C 6 
+1 L
+BOARDING: 3LMB 6CB. 
+LEAVING: 1LA;
+
+std::string ladyMother_B{};
+   std::string children{};
+   int ladyMother_Num{ 0 };
+   int children_Num{ 0 };
